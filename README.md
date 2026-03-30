@@ -19,7 +19,7 @@ How to use
 - Eat food to grow and increase score
 - Avoid hitting walls or yourself
 
- AI Acknowledgment
+ ## AI Acknowledgment
 
 - ChatGPT: Used to help design game logic and debug movement/collision detection
 - Assisted in understanding Canvas rendering and game loops
