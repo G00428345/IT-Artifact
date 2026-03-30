@@ -1,0 +1,11 @@
+## Style.css
+
+    body {
+  text-align: center;
+  font-family: Arial;
+}
+
+canvas {
+  background: black;
+  margin-top: 20px;
+}
